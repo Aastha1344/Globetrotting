@@ -1,0 +1,1 @@
+The project is about globetrotting which is a synonymous name for tourism management. The objectives included in this project are travel route optimization, destination reccommendation, feedback analysis, accommodation details and so on.
