@@ -1,0 +1,6 @@
+Shubham,9696767844,Patna,18400,October to March,Slightly Cloudy,8,3
+Aastha,4,Ranchi,2400,October to March,Slightly Cloudy,1,4
+shubham,9696767844,Patna,18400,October to March,Slightly Cloudy,8,3
+shubham,96965464,Goa,16000,November,to March,5,2
+shubham,9696767844,varanasi,12500,october,to march,5,2
+shubham,9695841655,goa,30000,october,to march,6,2

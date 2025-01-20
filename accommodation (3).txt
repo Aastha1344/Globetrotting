@@ -1,0 +1,109 @@
+Goa,Hotel,Clark Hotel,luxury,4000,6
+agra,Hotel,The taj view hotel,Standard,5500,15
+agra,Hotel,Agra heritage hotel,Luxury,18000,4
+agra,Hotel,Mughal view hotel,Premium,12000,7
+agra,Hotel,Agra city inn,Standard,4500,10
+agra,Hotel,Mathura hill resort,Standard,6500,9
+aizawl,Hotel,Aizawl heritage resort,Deluxe,9500,7
+aizawl,Hotel,Mizoram view resort,Standard,6000,12
+alleppey,Hotel,Alleppey beach resort,Deluxe,10000,9
+alleppey,Hotel,Kerala beach hotel,Standard,7000,8
+aurangabad,Hotel,Aurangabad resort,Standard,5500,12
+aurangabad,Hotel,The ajanta view hotel,Deluxe,8000,7
+bangalore,Hotel,Bangalore central hotel,Standard,5000,20
+bangalore,Hotel,Leela palace,Luxury,22000,2
+bangalore,Hotel,Radisson blu,Premium,15000,6
+bangalore,Hotel,Coorg resort,Standard,7000,10
+bangalore,Hotel,Nandi hills resort,Deluxe,9500,7
+bhopal,Hotel,Bhopal city palace,Standard,5000,15
+bhopal,Hotel,Lakeview bhopal resort,Deluxe,8500,6
+bhubaneswar,Hotel,Bhubaneswar heritage resort,Standard,5000,8
+bhubaneswar,Hotel,The puri view resort,Luxury,15000,3
+chennai,Hotel,Chennai city hotel,Standard,4500,18
+chennai,Hotel,The park chennai,Luxury,23000,3
+chennai,Hotel,Bay of bengal resort,Deluxe,10000,10
+chennai,Hotel,Ooty hill resort,Standard,6500,9
+chennai,Hotel,Kodaikanal retreat,Luxury,16000,5
+darjeeling,Hotel,Darjeeling heritage resort,Standard,8000,12
+darjeeling,Hotel,Himalayan view hotel,Luxury,15000,3
+delhi,Hotel,Delhi city hotel,Standard,4000,15
+delhi,Hotel,Taj palace,Luxury,20000,3
+delhi,Hotel,Hotel d'elite,Premium,12000,7
+delhi,Hotel,Shimla heights,Standard,6500,10
+delhi,Hotel,Hill view resort,Deluxe,8500,8
+dhanbad,Hotel,Dhanbad grand hotel,Premium,8000,6
+dhanbad,Hotel,The coal city hotel,Standard,4500,15
+goa,Hotel,Hilltop cottage,Standard,7000,5
+goa,Hotel,Palm beach resort,Deluxe,8000,10
+goa,Hotel,Goa heritage hotel,Superior,9000,6
+goa,Hotel,Goa beach resort,Luxury,12000,8
+goa,Hotel,Old goa mansion,Luxury,13000,6
+goa,Hotel,Mountain view resort,Luxury,15000,5
+guwahati,Hotel,Guwahati royal resort,Luxury,13000,3
+guwahati,Hotel,Brahmaputra view resort,Standard,6000,14
+imphal,Hotel,Imphal heritage hotel,Premium,7000,10
+imphal,Hotel,The manipur resort,Standard,4500,12
+indore,Hotel,Indore heritage resort,Premium,12000,5
+indore,Hotel,The indore grand,Standard,4500,10
+jaipur,Hotel,Jaipur palace hotel,Luxury,15000,5
+jaipur,Hotel,Hotel raj mahal,Standard,5000,12
+jaipur,Hotel,Amber fort hotel,Premium,13000,3
+jaipur,Hotel,Mount abu resort,Standard,7000,8
+jaipur,Hotel,Aravalli view resort,Luxury,16000,2
+jamshedpur,Hotel,Jamshedpur resort,Deluxe,10000,7
+jamshedpur,Hotel,Steel city resort,Standard,6000,12
+kochi,Hotel,Kochi heritage resort,Luxury,12000,6
+kochi,Hotel,The kochi grand,Standard,4000,15
+kochi,Hotel,Munnar resort,Luxury,18000,3
+kochi,Hotel,The tea garden resort,Deluxe,8500,7
+kolkata,Hotel,Kolkata heritage hotel,Premium,12000,8
+kolkata,Hotel,The park kolkata,Luxury,21000,4
+kolkata,Hotel,East coast beach resort,Deluxe,9500,11
+kolkata,Hotel,Darjeeling heights,Standard,8000,10
+kolkata,Hotel,Himalayan view resort,Deluxe,10500,6
+kolkata,Hotel,Kolkata city palace,Standard,4500,12
+kolkata,Hotel,Royal bengal hotel,Luxury,20000,4
+kullu,Hotel,Kullu valley resort,Standard,7000,10
+kullu,Hotel,The kullu view,Deluxe,12000,6
+leh,Hotel,Leh royal resort,Luxury,22000,2
+leh,Hotel,Ladakh valley resort,Standard,7500,9
+manali,Hotel,Manali mountain resort,Deluxe,8500,10
+manali,Hotel,The snow view resort,Luxury,20000,3
+mumbai,Hotel,Mumbai beach resort,Luxury,18000,12
+mumbai,Hotel,Mumbai grand hotel,Premium,15000,5
+mumbai,Hotel,Hotel gateway,Standard,6000,14
+mumbai,Hotel,The oberoi,Luxury,25000,3
+mumbai,Hotel,Lonavala hills,Standard,7500,9
+mumbai,Hotel,The mountain resort,Luxury,18000,4
+mussoorie,Hotel,The mussoorie resort,Deluxe,8000,9
+mussoorie,Hotel,Hilltop haven,Luxury,14000,4
+mysore,Hotel,Mysore heritage hotel,Premium,11000,5
+mysore,Hotel,The royal mysore,Standard,5000,10
+nainital,Hotel,Naini retreat,Deluxe,9500,10
+nainital,Hotel,The naini palace,Standard,7000,8
+patna,Hotel,Patna grand hotel,Standard,5500,10
+patna,Hotel,The patna view resort,Premium,9500,8
+pondicherry,Hotel,Pondy beach resort,Standard,6500,10
+pondicherry,Hotel,Serenity beach resort,Deluxe,9500,6
+rajasthan,Hotel,Rajasthan royal hotel,Premium,14000,6
+rajasthan,Hotel,Rajputana palace,Luxury,20000,2
+rishikesh,Hotel,Ganga resort,Standard,5500,15
+rishikesh,Hotel,River view hotel,Luxury,18000,4
+rishikesh,Hotel,Neelkanth resort,Deluxe,10000,7
+rishikesh,Hotel,Yoga view resort,Luxury,15000,6
+shillong,Hotel,Shillong resort,Standard,6500,10
+shillong,Hotel,Cherrapunji resort,Luxury,14000,4
+shimla,Hotel,Shimla hill resort,Standard,6000,12
+shimla,Hotel,The shimla view,Luxury,16000,5
+srinagar,Hotel,Srinagar lakeside resort,Deluxe,9500,10
+srinagar,Hotel,The dal view resort,Luxury,18000,4
+udaipur,Hotel,Lake view resort,Luxury,22000,3
+udaipur,Hotel,Udaipur city palace,Premium,15000,5
+udaipur,Hotel,Mount abu view resort,Standard,7000,8
+varanasi,Hotel,Varanasi heritage hotel,Standard,4000,20
+varanasi,Hotel,Varanasi royal retreat,Premium,11000,4
+varanasi,Hotel,Ganges view resort,Luxury,16000,3
+varanasi,Hotel,Chunar hill resort,Standard,6000,10
+varanasi,Hotel,Mirzapur hill resort,Deluxe,8500,5
+visakhapatnam,Hotel,Vizag beach resort,Deluxe,9000,8
+visakhapatnam,Hotel,Beach view resort,Standard,6500,10

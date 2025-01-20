@@ -1,0 +1,22 @@
+Goa,beach,Calangute Beach (6:00 AM - 10:00 PM),Baga Beach (24 Hours),Anjuna Beach (6:00 AM - 8:00 PM),Famous for nightlife and water sports
+Chennai,beach,Marina Beach (5:00 AM - 9:00 PM),Elliot's Beach (6:00 AM - 10:00 PM),Famous for historical landmarks and seafood
+Kerala,beach,Kovalam Beach (6:00 AM - 6:00 PM),Varkala Beach (6:00 AM - 7:00 PM),Backwaters and Ayurvedic therapies
+Pondicherry,beach,Promenade Beach (24 Hours),Paradise Beach (9:00 AM - 6:00 PM),French colonial architecture and serene beaches
+Mumbai,city,Juhu Beach (24 Hours),Girgaum Chowpatty (24 Hours),Known for Bollywood and the Gateway of India
+Delhi,city,Red Fort (9:30 AM - 4:30 PM),India Gate (24 Hours),Capital city with historical landmarks
+Bangalore,city,Lalbagh Botanical Garden (6:00 AM - 7:00 PM),Cubbon Park (6:00 AM - 6:00 PM),Known for technology and pleasant weather
+Amritsar,religious,Golden Temple (24 Hours),Jallianwala Bagh (6:00 AM - 7:00 PM),Known for its spiritual significance
+Varanasi,religious,Kashi Vishwanath Temple (3:00 AM - 11:00 PM),Dashashwamedh Ghat (24 Hours),Known for the Ganga Aarti and temples
+Haridwar,religious,Har Ki Pauri (24 Hours),Chandi Devi Temple (7:00 AM - 7:00 PM),Known for its holy ghats and temples
+Tirupati,religious,Venkateswara Temple (3:00 AM - 1:00 AM),Kapila Theertham (6:00 AM - 8:00 PM),Famous for spiritual pilgrimages
+Mysore,historical,Mysore Palace (10:00 AM - 5:30 PM),Chamundi Hill (6:00 AM - 9:00 PM),Known for its royal heritage
+Agra,historical,Taj Mahal (6:00 AM - 6:00 PM),Agra Fort (6:00 AM - 6:00 PM),Famous for Mughal architecture
+Jaipur,historical,Amber Fort (8:00 AM - 5:30 PM),City Palace (9:30 AM - 5:00 PM),Famous for palaces and forts
+Udaipur,historical,City Palace (9:30 AM - 5:30 PM),Lake Pichola (24 Hours),Known for its lakes and palaces
+Shimla,hillstation,The Ridge (24 Hours),Kufri (9:00 AM - 6:00 PM),A popular hill station in Himachal Pradesh
+Manali,hillstation,Rohtang Pass (6:00 AM - 5:00 PM),Solang Valley (24 Hours),Famous for its scenic beauty and adventure sports
+Nainital,hillstation,Naini Lake (6:00 AM - 6:00 PM),Snow View Point (10:00 AM - 5:00 PM),Known for its beautiful lakes and hills
+Darjeeling,hillstation,Tiger Hill (4:00 AM - 7:00 PM),Batasia Loop (24 Hours),Famous for its tea gardens and scenic views
+Ooty,hillstation,Doddabetta Peak (7:00 AM - 6:00 PM),Ooty Lake (9:00 AM - 6:00 PM),Famous for its tea plantations and scenic views
+Jaisalmer,desert,Sam Sand Dunes (24 Hours),Jaisalmer Fort (9:00 AM - 6:00 PM),Known for the Golden Fort and desert safari
+Rajasthan,desert,Thar Desert (24 Hours),Camel Safari (7:00 AM - 6:00 PM),Known for its desert landscapes and cultural heritage

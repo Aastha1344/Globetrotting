@@ -1,0 +1,9 @@
+Destination,Number of Ratings,Average Rating
+,991,0
+Bangalore,1,4
+Goa,1,4
+belgaum,1,3
+goa,2,4
+goa\,1,4
+jhgvw,1,0
+varanasi,1,5

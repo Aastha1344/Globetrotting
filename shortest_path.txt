@@ -1,0 +1,3 @@
+Shortest path from Belgaum to Hubli:
+Total time: 1 hours, Total cost: 300 INR
+Path: Belgaum -> Hubli

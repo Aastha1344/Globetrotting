@@ -1,0 +1,100 @@
+Agra,Forest,1114,5,4975,Guest House,Cloudy,Summer
+Jaipur,Adventure,3535,7,2015,Guest House,Rainy,Summer
+Varanasi,Desert,4961,3,260,Cottage,Cloudy,Monsoon
+Rishikesh,City,8642,10,1930,Tree House,Snowy,Winter
+Shimla,Religious,3269,7,4217,Bungalow,Windy,Summer
+Darjeeling,Religious,2558,7,1446,Homestay,Sunny,Summer
+Leh,Adventure,5584,5,3935,Tent,Rainy,All Year Round
+Kerala,Hill Station,2078,5,40,Hostel,Cloudy,Summer
+Goa,Religious,3549,10,4425,Hotel,Rainy,Monsoon
+Mumbai,Adventure,9251,9,642,Bungalow,Snowy,All Year Round
+Delhi,Cultural,2789,3,694,Guest House,Sunny,Summer
+Kolkata,Forest,4446,4,583,Guest House,Cloudy,All Year Round
+Chennai,Forest,6470,5,1880,Hotel,Rainy,Summer
+Bangalore,Adventure,2413,2,3707,Cottage,Snowy,All Year Round
+Hyderabad,Beach,2040,5,1859,Hotel,Sunny,Summer
+Pune,Desert,7176,2,1596,Hostel,Sunny,Monsoon
+Bhopal,City,1321,8,3730,Hotel,Snowy,All Year Round
+Udaipur,Heritage,6153,4,4983,Villa,Sunny,All Year Round
+Jodhpur,Cultural,8955,2,3118,Resort,Snowy,Monsoon
+Srinagar,City,9274,5,360,Hotel,Sunny,Summer
+Mysore,Hill Station,3293,4,2761,Tree House,Sunny,All Year Round
+Coorg,Beach,2944,2,1957,Hotel,Cloudy,Summer
+Andaman,Cultural,607,5,2342,Guest House,Snowy,Winter
+Rajasthan,City,5672,4,1970,Hostel,Sunny,All Year Round
+Ladakh,Heritage,3900,9,2607,Tent,Windy,Summer
+Munnar,Beach,6401,4,4450,Hostel,Cloudy,Monsoon
+Ooty,Religious,7449,3,1775,Resort,Windy,Winter
+Nainital,Desert,8468,4,3985,Hotel,Snowy,All Year Round
+Mussoorie,Heritage,2014,2,3833,Resort,Snowy,Monsoon
+Kodaikanal,Religious,4471,5,3921,Hotel,Windy,Winter
+Agartala,Heritage,8082,4,3259,Guest House,Sunny,Summer
+Nagpur,Beach,699,10,4854,Bungalow,Cloudy,Monsoon
+Surat,Desert,7956,3,2122,Tree House,Cloudy,All Year Round
+Lucknow,Forest,2003,9,3474,Tree House,Cloudy,All Year Round
+Chandigarh,City,2368,2,1791,Hostel,Cloudy,All Year Round
+Pondicherry,Beach,4939,2,3910,Cottage,Snowy,Monsoon
+Kolkata,Religious,5228,7,3657,Guest House,Windy,Monsoon
+Bhubaneswar,Adventure,155,7,392,Homestay,Snowy,Winter
+Kochi,Heritage,2508,7,1935,Cottage,Windy,Winter
+Madurai,City,2336,8,823,Tree House,Sunny,Winter
+Amritsar,Religious,6611,4,2981,Tent,Snowy,Monsoon
+Jammu,Desert,8551,6,3999,Resort,Snowy,Summer
+Siliguri,Cultural,6537,3,1607,Hotel,Snowy,Monsoon
+Tirupati,Hill Station,4400,6,3921,Tent,Snowy,All Year Round
+Kullu,Beach,8898,7,1437,Hotel,Rainy,Winter
+Alleppey,Heritage,2189,5,3911,Resort,Rainy,Summer
+Alwar,Desert,3324,2,1858,Hotel,Windy,Monsoon
+Ranchi,City,413,2,1672,Tent,Sunny,All Year Round
+Jaisalmer,Forest,7549,4,4567,Resort,Sunny,Winter
+Patiala,Hill Station,3970,9,1794,Bungalow,Snowy,Winter
+Bikaner,Beach,5709,9,1780,Guest House,Windy,All Year Round
+Bhubaneshwar,Cultural,6801,10,717,Tree House,Cloudy,All Year Round
+Cochin,Desert,6006,5,922,Villa,Cloudy,Summer
+Gwalior,Forest,8058,9,4349,Tree House,Cloudy,Monsoon
+Haridwar,Adventure,1327,5,1628,Guest House,Windy,Summer
+Khajuraho,Cultural,1816,6,4551,Homestay,Snowy,Monsoon
+Kanpur,Beach,5856,4,116,Tree House,Rainy,Winter
+Vadodara,Religious,4235,4,2196,Tent,Snowy,Monsoon
+Indore,Religious,944,6,1628,Resort,Snowy,Summer
+Tiruvannamalai,City,8783,2,1103,Hostel,Sunny,Monsoon
+Dibrugarh,Heritage,551,10,3051,Tent,Windy,Summer
+Visakhapatnam,Heritage,8417,7,2249,Tree House,Rainy,Monsoon
+Jammu and Kashmir,Forest,8780,9,3908,Homestay,Cloudy,Winter
+Ranchi,Heritage,7245,4,3229,Hotel,Sunny,Monsoon
+Gangtok,Beach,6595,3,381,Tree House,Cloudy,Summer
+Shillong,Heritage,2879,7,3902,Guest House,Windy,Monsoon
+Sikkim,Adventure,1100,10,3723,Tent,Rainy,Winter
+Dhanbad,Adventure,8945,2,2146,Tent,Sunny,Winter
+Agra Fort,Cultural,2603,4,1101,Guest House,Windy,Monsoon
+Kedarnath,Hill Station,2534,9,2626,Tree House,Cloudy,Monsoon
+Auli,Beach,7086,4,2675,Tent,Cloudy,Winter
+Nainital Lake,Heritage,8885,6,1553,Resort,Snowy,Monsoon
+Chilika Lake,Heritage,5506,4,1582,Cottage,Sunny,Summer
+Mahabalipuram,Adventure,1267,4,2374,Homestay,Windy,Summer
+Rameswaram,Beach,735,8,3398,Tree House,Cloudy,Winter
+Tawang,Cultural,8087,8,49,Hostel,Rainy,Monsoon
+Pushkar,Beach,5280,5,3120,Cottage,Windy,All Year Round
+Khajuraho,Religious,9180,8,3469,Cottage,Snowy,Monsoon
+Hampi,Forest,27,5,877,Cottage,Rainy,Summer
+Fatehpur Sikri,Beach,5530,3,67,Hotel,Snowy,All Year Round
+Pushkar Lake,Cultural,7665,4,1997,Cottage,Sunny,Summer
+Jantar Mantar,City,7847,5,4263,Guest House,Snowy,Monsoon
+Kumarakom,Hill Station,3359,8,106,Tree House,Snowy,Summer
+Sundarbans,Beach,9567,5,543,Guest House,Snowy,Winter
+Bandra,Heritage,7939,5,1357,Guest House,Sunny,Winter
+Gateway of India,Religious,9799,9,2069,Hostel,Sunny,All Year Round
+Ajmer,City,6321,4,900,Resort,Sunny,Winter
+Puri,Desert,873,5,4461,Homestay,Cloudy,Winter
+Kolkata,Cultural,7463,8,594,Homestay,Windy,All Year Round
+Digha,Religious,778,9,3261,Hotel,Sunny,Summer
+Mysuru Palace,Cultural,9784,7,2625,Tent,Sunny,Summer
+Kanchipuram,Adventure,4852,4,2412,Bungalow,Cloudy,Summer
+Bodhgaya,City,2293,9,2393,Hostel,Sunny,Winter
+Khajuraho Temples,Forest,388,5,426,Villa,Cloudy,Summer
+Tirumala,City,531,9,2638,Hostel,Snowy,Monsoon
+Sanchi,Cultural,4845,2,3059,Homestay,Snowy,Monsoon
+Bhopal,Forest,6590,5,3809,Hostel,Windy,Winter
+Mysore Zoo,Cultural,128,4,4762,Tree House,Rainy,Monsoon
+Chilika,City,7936,4,2059,Tree House,Rainy,All Year Round
+Nanda Devi,Cultural,8019,10,4593,Homestay,Sunny,Monsoon
